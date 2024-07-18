@@ -1,4 +1,4 @@
-from .auto_crop_by_nps import AutoCropByNPS
+from .auto_crop_by_NPS import AutoCropByNPS
 
 NODE_CLASS_MAPPINGS = {
     "AutoCropByNPS": AutoCropByNPS
