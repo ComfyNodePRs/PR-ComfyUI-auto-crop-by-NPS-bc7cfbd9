@@ -4,6 +4,6 @@ A very useful automatic cropping tool! It can realize cropping, expansion and ro
 
 
 **Instructions(使用说明)**
-
+                                               
 Download auto crop by NPS in the ComfyUI/custom nodes
 下载auto crop by NPS放在ComfyUI/custom nodes文件下即可
